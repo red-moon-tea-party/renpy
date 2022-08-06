@@ -40,4 +40,4 @@ init -1 python:
         def get_items(self, filter_empty=False):
             if filter_empty:
                 return [x for x in self.stock.keys() if self.stock[x]]
-            return self.stock.keys()
+            return list(self.stock.keys())

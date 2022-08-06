@@ -1,7 +1,6 @@
 screen player_inventory_screen:
     modal True
     zorder 2
-    default items = player_inventory.get_items(filter_empty=True)
     default num_fill = GridHelper.get_num_fill(total=len(items))
     default num_row = GridHelper.get_num_row(total=len(items))
 
@@ -50,7 +49,8 @@ screen player_inventory_screen:
 
             grid GridHelper.NUM_COLUMN num_row:
                 spacing 20
-
+                
+                $ items = player_inventory.get_items(filter_empty=True)
                 for item in items:
                     frame:
                         background Frame("gui/store/item_base.png")
