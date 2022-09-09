@@ -1,0 +1,2240 @@
+Fri Sep  9 11:42:02 2022
+macOS-10.16-x86_64-i386-64bit
+Ren'Py 8.0.2.22081402
+ 
+
+Bootstrap to the start of init.init took 0.05s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.09s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.01s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.13s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 141.74s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.03s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 176.60s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 202.47s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 281.00s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 287.17s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 331.29s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 354.11s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 373.90s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 381.66s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 401.46s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 425.78s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 492.60s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 500.36s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 551.78s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 559.55s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 731.38s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 773.79s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 12, in script
+    pause
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ast.py", line 2232, in execute
+    self.call("execute")
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ast.py", line 2220, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/statements.py", line 281, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/exports.py", line 1533, in pause
+    rv = renpy.ui.interact(mouse='pause', type='pause', roll_forward=roll_forward, pause=delay)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ui.py", line 299, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 3377, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 3804, in interact_core
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/screen.py", line 456, in visit_all
+    self.child.visit_all(callback, seen=None)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 572, in visit_all
+    for d in self.visit():
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/layout.py", line 1254, in visit
+    self.style._visit_window(rv.append)
+  File "style.pyx", line 541, in renpy.style.StyleCore._visit_window
+  File "style.pyx", line 528, in renpy.style.StyleCore._get_unoffset
+  File "style.pyx", line 493, in renpy.style.StyleCore._get
+  File "style.pyx", line 710, in renpy.style.build_style
+  File "style.pyx", line 707, in renpy.style.build_style
+  File "gen3-static/style_functions.pyx", line 1696, in style_functions.pos_property
+  File "include/style_common.pxi", line 30, in style_functions.index_0
+IndexError: tuple index out of range
+
+While processing the pos property of anonymous style:
+  File "game/script.rpy", line 12, in script
+    pause
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+IndexError: tuple index out of range
+Resetting cache.
+Bootstrap to the start of init.init took 781.58s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 12, in script
+    pause
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ast.py", line 2232, in execute
+    self.call("execute")
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ast.py", line 2220, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/statements.py", line 281, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/exports.py", line 1533, in pause
+    rv = renpy.ui.interact(mouse='pause', type='pause', roll_forward=roll_forward, pause=delay)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ui.py", line 299, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 3377, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 3804, in interact_core
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/screen.py", line 456, in visit_all
+    self.child.visit_all(callback, seen=None)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 572, in visit_all
+    for d in self.visit():
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/layout.py", line 1254, in visit
+    self.style._visit_window(rv.append)
+  File "style.pyx", line 541, in renpy.style.StyleCore._visit_window
+  File "style.pyx", line 528, in renpy.style.StyleCore._get_unoffset
+  File "style.pyx", line 493, in renpy.style.StyleCore._get
+  File "style.pyx", line 710, in renpy.style.build_style
+  File "style.pyx", line 707, in renpy.style.build_style
+  File "gen3-static/style_functions.pyx", line 1696, in style_functions.pos_property
+  File "include/style_common.pxi", line 30, in style_functions.index_0
+IndexError: tuple index out of range
+
+While processing the pos property of anonymous style:
+  File "game/script.rpy", line 12, in script
+    pause
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+IndexError: tuple index out of range
+Resetting cache.
+Bootstrap to the start of init.init took 790.86s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 825.82s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 831.06s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 843.68s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 855.96s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 868.24s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 871.57s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 896.04s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 905.30s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 918.13s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 935.39s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 941.67s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 948.03s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 954.83s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 961.27s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 975.07s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 979.20s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 988.52s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 993.32s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 997.00s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1010.80s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1013.77s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1033.90s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1055.22s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1060.09s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1073.90s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1083.37s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1088.14s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1095.96s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.01s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1184.67s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.02s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1269.26s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/Users/simona/Library/RenPy/backups/gui_1':
+Dump and make backups. took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1036, 583) drawable=(2072, 1166)
+Maximum texture size: 4096x4096

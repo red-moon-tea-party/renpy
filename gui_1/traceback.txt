@@ -1,0 +1,57 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While processing the pos property of anonymous style:
+  File "game/script.rpy", line 12, in script
+    pause
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+IndexError: tuple index out of range
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 12, in script
+    pause
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ast.py", line 2232, in execute
+    self.call("execute")
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ast.py", line 2220, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/statements.py", line 281, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/exports.py", line 1533, in pause
+    rv = renpy.ui.interact(mouse='pause', type='pause', roll_forward=roll_forward, pause=delay)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/ui.py", line 299, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 3377, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 3804, in interact_core
+    root_widget.visit_all(lambda i : i.per_interact())
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/screen.py", line 456, in visit_all
+    self.child.visit_all(callback, seen=None)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 582, in visit_all
+    d.visit_all(callback, seen)
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/core.py", line 572, in visit_all
+    for d in self.visit():
+  File "/Users/simona/Applications/renpy-7.3.5-sdk/renpy/display/layout.py", line 1254, in visit
+    self.style._visit_window(rv.append)
+  File "style.pyx", line 541, in renpy.style.StyleCore._visit_window
+  File "style.pyx", line 528, in renpy.style.StyleCore._get_unoffset
+  File "style.pyx", line 493, in renpy.style.StyleCore._get
+  File "style.pyx", line 710, in renpy.style.build_style
+  File "style.pyx", line 707, in renpy.style.build_style
+  File "gen3-static/style_functions.pyx", line 1696, in style_functions.pos_property
+  File "include/style_common.pxi", line 30, in style_functions.index_0
+IndexError: tuple index out of range
+
+macOS-10.16-x86_64-i386-64bit x86_64
+Ren'Py 8.0.2.22081402
+gui_1 1.0
+Fri Sep  9 11:55:04 2022
