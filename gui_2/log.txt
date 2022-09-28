@@ -1,0 +1,46 @@
+Wed Sep 28 10:22:06 2022
+macOS-10.16-x86_64-i386-64bit
+Ren'Py 8.0.2.22081402
+ 
+
+Bootstrap to the start of init.init took 0.06s
+Early init took 0.00s
+Loader init took 0.01s
+Loading error handling took 0.05s
+Loading script took 0.76s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError("dlopen(/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib, 0x0006): tried: '/Users/simona/Applications/renpy-7.3.5-sdk/lib/py3-mac-x86_64/libsteam_api.dylib' (no such file)")
+Running init code took 0.08s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1440, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'ATI Technologies Inc.'"
+Renderer: b'AMD Radeon R9 M370X OpenGL Engine'
+Version: b'2.1 ATI-4.8.101'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(867, 488) drawable=(1734, 976)
+Maximum texture size: 4096x4096
