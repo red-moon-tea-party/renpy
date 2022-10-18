@@ -196,6 +196,7 @@ screen item_view(shop, items):
                         align (0.5, 0.5)
                         size 30
                         color "#000"
+                    tooltip item
                     action [SetVariable('selected_item', item)]
 
             ## 这里因为用了grid，grid需要填满，所以需要计算
@@ -205,6 +206,27 @@ screen item_view(shop, items):
             ## 这里就是放格子
             for i in range(n):
                 add "gui/store/item_idle.png"
+
+    ## 工具提示
+    $ tooltip = GetTooltip()
+
+    if tooltip:
+
+        nearrect:
+            focus "tooltip"
+            prefer_top True
+
+            ## 显示商品的相关信息
+            frame:
+                background Solid("#0005")
+                xalign 0.5
+                vbox:
+                    add tooltip.img:
+                        xysize (100, 100)
+                    text tooltip.name:
+                        color "#fff"
+                        size 30
+                        outlines [(3, "#fff5"), (2, "#000")]
 
 
 ## 通用的文字样式
