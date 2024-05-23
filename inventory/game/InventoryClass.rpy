@@ -14,7 +14,7 @@ init -1 python:
             return res
 
         # 检查物品是否存在，如果不存在，程序会直接报错。
-        def check_item_exit(self, item):
+        def __check_item_exist__(self, item):
             if not item in self.stock:
                 raise Exception('Bag: item {:s} not in bag.', item.name)
 
@@ -24,7 +24,7 @@ init -1 python:
 
         # 某种物品的数量减少1，或者减少count个
         def remove(self, item, count=1):
-            self.check_item_exit(item)
+            self.__check_item_exist__(item)
 
             if self.stock[item] < count:
                 raise "There is not enough {:s}".format(item.name)
@@ -33,7 +33,7 @@ init -1 python:
 
         # 获得这个物品有几个
         def get_num_item(self, item):
-            self.check_item_exit(item)
+            self.__check_item_exist__(item)
             return self.stock[item]
 
         # 返回背包里的物品，如果filter_empty是True，不返回数量为0的物品。
